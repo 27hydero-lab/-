@@ -41,3 +41,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        
+        <a-sphere position="0 1 -5" radius="2" color="red"></a-sphere>
+
